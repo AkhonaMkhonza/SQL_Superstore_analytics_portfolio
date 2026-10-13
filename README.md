@@ -3,8 +3,6 @@ Overview**
 
 This project analyzes the Superstore dataset using SQL and Tableau to identify sales trends, profitability drivers, customer behavior, and operational opportunities.
 
-Tableau link:https://public.tableau.com/views/SuperstoreProfitabilityAnalysis_17916676691180/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
 **The project involved:**
 
 Data cleaning and validation;
